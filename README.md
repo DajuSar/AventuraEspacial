@@ -27,9 +27,9 @@ Este es un juego desarrollado en Python utilizando la librería PyGame. El jugad
 
 1. **Clonar el repositorio** o descargar los archivos.
 
-2. **Instalar PyGame**:
+2. **Instalar PyGame**
 
-3. **Ejecutar el juego**:
+3. **Ejecutar el juego**
 
 ## Notas
 
